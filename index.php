@@ -23,7 +23,7 @@
 		<div class="form-title">Second Name</div>
 		<input class="form-field" type="text" name="secondname" /><br />
 		<div class="form-title">Email</div>
-		<input class="form-field" type="text" name="email" /><br />
+		<input class="form-field" type="email" name="email" /><br />
 		<div class="form-title">Select Country</div>
 		<select class="form-field" name="country">
 		<option value="">Country...</option>
